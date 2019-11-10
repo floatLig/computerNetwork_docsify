@@ -13,7 +13,7 @@
 
 <!-- Link -->
 [GitHub](https://floatlig.github.io/computerNetwork_docsify/#/)
-<!-- [Get Started](#docsify) -->
+[Get Started](README.md)
 
 <!-- background image -->
 <!-- ![](_media/bg.png) -->
