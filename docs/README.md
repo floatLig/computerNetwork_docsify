@@ -2,7 +2,21 @@
 
 计算机网络的读书笔记。
 
-DHCP：在一个局域网内，分配IP
+?> 应用层：
+
+?> 运输层：
+
+?> 网络层：
+
+[IP数据报详细信息](http://localhost:3000/#/./_source/%E7%AC%AC4%E7%AB%A0/%E7%BD%91%E7%BB%9C%E5%B1%82?id=ip%e6%95%b0%e6%8d%ae%e6%8a%a5%e7%9a%84%e6%a0%bc%e5%bc%8f)
+
+![IP数据报格式.jpg](../_img/IP数据报格式.jpg)
+
+?> 数据链路层：
+
+[MAC帧详细信息](http://localhost:3000/#/./_source/%E7%AC%AC3%E7%AB%A0/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82?id=%e4%bb%a5%e5%a4%aa%e7%bd%91%e7%9a%84mac%e5%b1%82)
+
+![MAC帧格式.png](../_img/MAC帧格式.png)
 
 ---
 
