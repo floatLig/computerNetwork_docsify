@@ -46,6 +46,10 @@
 
 ![MAC帧格式.png](_img/MAC帧格式.png)
 
+[ARP报文详细信息--待更正](https://floatlig.github.io/computerNetwork_docsify/#/./_source/%E7%AC%AC3%E7%AB%A0/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82?id=%e4%bb%a5%e5%a4%aa%e7%bd%91%e7%9a%84mac%e5%b1%82)
+
+![ARP数据报.jpg](_img/ARP数据报.jpg)
+
 ---
 
 !> 谨记:
